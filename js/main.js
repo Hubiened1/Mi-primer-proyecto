@@ -304,11 +304,4 @@ hora = 3;
 
 // }
 
-var n = 1;
-var m = 10;
-for(var inicio=n;final <= m; inicio++){
-    if(n%2 == 0 ){
-        console.log("numero par: ",n);
-    }
-    
-}
+// hola esto es un ensayo
